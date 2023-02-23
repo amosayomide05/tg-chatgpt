@@ -13,10 +13,10 @@
   "author": "Amos Ayomide",
   "license": "ISC",
   "dependencies": {
-    
+    "inspector": "latest",
     "telegraf": "latest",
     "fs": "latest",
-"axios": "latest",
+    "axios": "latest",
   },
   "homepage": "https://github.com/amosayomide05/tg-chatgpt",
   
