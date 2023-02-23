@@ -1,0 +1,30 @@
+{
+  "name": "tg-chatgpt",
+  "version": "0.1.0",
+  "description": "Telgram Bot",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Amos Ayomide",
+  "license": "ISC",
+  "dependencies": {
+    
+    "telegraf": "latest",
+    "fs": "latest",
+"axios": "latest",
+  },
+  "homepage": "https://github.com/amosayomide05/tg-chatgpt",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amosayomide05/tg-chatgpt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amosayomide05/tg-chatgpt/issues"
+  }
+}
